@@ -12,7 +12,7 @@ No installation required.
 - **Markdown** introduction
 # Maintainers
 Name: *EeLLJ*<br>
-Email: <llj15989293138@163.com>
+Email: <llj15989293138@163.com><br>
 Addr: Xiamen University
 
 -----------------------------
