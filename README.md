@@ -1,5 +1,5 @@
 # Background
-First time to use **[Github](https://github.com/ "Github")** and **Markdown**, and I'm trying to write my first ***readme*** file.
+First time to use **[Github](https://github.com/ "Github")** and **[Markdown](https://markdown.com.cn/ "The Best Markdown Tutorial")**, and I'm trying to write my first ***readme*** file.
 
 Chinese great poet *Li Bai* once said:<br>
 > "All things in their being are good for something."
